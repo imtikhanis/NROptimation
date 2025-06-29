@@ -1,0 +1,15 @@
+Package: NROprimation
+Type: Package
+Title: Newton Raphson Optimation Package
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Imtikhanah", "Anis",
+      email = "imti.anis@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Newton Raphson Optimization
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

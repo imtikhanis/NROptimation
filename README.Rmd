@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "Imtikhanah anis"
+date: "2025-06-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Newton Raphson Optimization
+
+This function finds the root of a function using the Newton-Raphson method
